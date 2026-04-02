@@ -1,1 +1,38 @@
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|                                               |
+|     _ - = * Linix Termial Commands * = - _    |
+|                                               |
+|              Written By: Geomarzi             |
+|                                               |
+| + Commands are listed in alphabetical order + |
+|   + New commands are added after learning +   |
+|   + New -options are added after learning +   |
+|                                               |
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                              
 
+_ - = + * ABOUT * + = - _ 
+
+Hotkeys: 
+CTRL + ALT + T (Open Terminal)
+CTRL + F (Search TXT Document)
+
+Format:
+
+=========
+<Command>
+=========
+
+Description:
+A description of the command is placed this section.
+
+Syntax:
+How the command is typed into the terminal.
+
+----------
+Standard Output (Stdout)
+----------
+
+Notes:
+Notes are placed in this section.
+
+_ - = + * COMMANDS * + = - _ 
