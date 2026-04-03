@@ -1,0 +1,9 @@
+Session 1:
+Created Google mail account
+Created HTB account
+Created Github account
+
+Started working on github textfiles
+Completed the "Intro to Academy" module on HTB
+Browsed HTB Fundimental modules
+Started "Learning Process" module
