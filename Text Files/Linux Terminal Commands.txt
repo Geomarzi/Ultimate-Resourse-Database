@@ -60,17 +60,20 @@ cat
 =========
 
 Description:
-A description of the command is placed this section.
+The cat command in Linux is short for “concatenate”, and it’s used to display or combine file contents.
 
 Syntax:
-How the command is typed into the terminal.
+cat <filename>
 
 ----------
-Standard Output (Stdout)
+cat /etc/issue <enter>
+
+Stdout:
+Ubuntu 24.04.4 LTS \n \l
 ----------
 
 Notes:
-Notes are placed in this section.
+There are many options for cat, in this example we viewed the issue (no extension) file in the /etc folder. It displayed the contents of the file within the terminal window.
   ____  
  |  _ \ 
  | | | |
